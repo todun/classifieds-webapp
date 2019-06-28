@@ -36,3 +36,5 @@ Install Node.js, npm, nodemon (optional)
 Run app with: `npm run start` or `npm run start-nodemon`
 
 Bundle frontend: `npm run webpack-dev`
+
+Open url to seed some data: `http://localhost:3000/seedadds`
